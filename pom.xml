@@ -173,7 +173,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 	 
      <name>sruthi flipkart releases</name>
 	    
-  <url>http://13.210.158.117:8081/repository/flipkart-releases/</url>
+  <url>http://54.153.131.70:8081/repository/flipkart-releases/</url>
 	   
 
  </repository>
@@ -184,7 +184,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 	    
   <name>sruthi flipkart snapshot</name>
 	    
-  <url>http://http://13.210.158.117:8081/repository/flipkart-snapshot/</url>
+  <url>http://54.153.131.70:8081/repository/flipkart-snapshot/</url>
 	   
  </snapshotRepository>
 	
