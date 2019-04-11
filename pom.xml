@@ -41,7 +41,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 	<junit.version>4.12</junit.version>
 	
 	<log4j.version>1.2.17</log4j.version>
-	<sonar.host.url>http://13.211.153.201:9000/</sonar.host.url>
+	<sonar.host.url>http:13.211.141.143:9000/</sonar.host.url>
 
 	
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
